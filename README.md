@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Passionate about technology and computers from a young age, I entered this world driven by vocation.
+
+I am not afraid of new challenges and enjoy experimenting with new technologies and concepts.
+
+- 🔭 I’m currently working as PLatform Engineer
+
 <!--
 **vrdominguez/vrdominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
