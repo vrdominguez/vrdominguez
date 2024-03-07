@@ -1,10 +1,20 @@
 ### Hi there 👋
 
-Passionate about technology and computers from a young age, I entered this world driven by vocation.
-
-I am not afraid of new challenges and enjoy experimenting with new technologies and concepts.
-
-- 🔭 I’m currently working as Platform Engineer
+```yaml
+apiVersion: vrdominguez/v1
+kind: vrdominguez
+metadata:
+  name: Víctor R. Rodríguez Domínguez
+  annotations:
+    where: Santiago de Compostela - Galicia - ES
+    current_job: Platform Engineer
+    company: Prefapp Cloud Consulting SL
+  labels:
+    experience:
+      - Sysdev
+      - DevOps
+      - Platform Engineer
+```
 
 <!--
 **vrdominguez/vrdominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
